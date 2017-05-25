@@ -1,0 +1,177 @@
+{	
+	"imgCard" : 
+		[
+			{
+				"title" : "影院热映",
+				"gengduo" : "更多",
+				"movieData" : [
+					{
+						"banner": "image/banner.jpg",
+						"title" : "三少爷的剑"
+					},
+					{
+						"banner": "image/banner1.jpg",
+						"title" : "脑残粉"
+					},
+					{
+						"banner": "image/banner2.jpg",
+						"title" : "我是你的小幂phone"
+					},
+					{
+						"banner": "image/banner3.jpg",
+						"title" : "阿修罗"
+					}
+				]
+			},
+			{
+				"title" : "免费在线观影",
+				"gengduo" : "更多",
+				"movieData" : [
+					{
+						"banner": "image/banner4.jpg",
+						"title" : "三少爷的剑"
+					},
+					{
+						"banner": "image/banner5.jpg",
+						"title" : "脑残粉"
+					},
+					{
+						"banner": "image/banner6.jpg",
+						"title" : "我是你的小幂phone"
+					},
+					{
+						"banner": "image/banner7.jpg",
+						"title" : "阿修罗"
+					}
+				]
+			},
+			{
+				"title" : "芯片速递",
+				"gengduo" : "更多",
+				"movieData" : [
+					{
+						"banner": "image/banner8.jpg",
+						"title" : "游戏王：次元的黑暗面"
+					},
+					{
+						"banner": "image/banner9.jpg",
+						"title" : "石墙"
+					},
+					{
+						"banner": "image/banner10.jpg",
+						"title" : "假死新人生"
+					},
+					{
+						"banner": "image/banner11.jpg",
+						"title" : "斯隆女士"
+					}
+				]
+			}
+		],
+	"message" : 
+		{
+			"title" : "发现好电影",
+			"gengduo" : "",
+			"messageData" : 
+			[
+				{
+					"mes" : "同时入选IMDB250和豆瓣电影250的电影",
+					"color" : "#42BD56"
+				},
+				{
+					"mes" : "带你进入不正常的世界",
+					"color" : "#4F9DED"
+				}, 
+				{
+					"mes" : "用电【影】来祭奠逝去的岁月",
+					"color" : "#FF4055"
+				},
+				{
+					"mes" : "女孩们的故事【电影】",
+					"color" : "#FFC46C"
+				},
+				{
+					"mes" : "",
+					"color" : ""
+				},
+				{
+					"mes" : "科幻是未来的钥匙——科幻启示录【科幻题材】",
+					"color" : "#2384E8"
+				},
+				{
+					"mes" : "美国生活面面观",
+					"color" : "#CC3344"
+				},
+				{
+					"mes" : "2015终极期待",
+					"color" : "#FFAC2D"
+				},
+				{
+					"mes" : "经典韩国电影——收集100部",
+					"color" : "#3BA94D"
+				}
+			]
+		},
+	"mackBrowse" : 
+		{
+			"title" : "分类浏览",
+			"gengduo" : "",
+			"mackData" : 
+				[
+					{
+						"name" : "经典"
+					},
+					{
+						"name" : "冷门佳片"
+					},
+					{
+						"name" : "豆瓣高分"
+					},
+					{
+						"name" : "动作"
+					},
+					{
+						"name" : "喜剧"
+					},
+					{
+						"name" : "爱情"
+					},
+					{
+						"name" : "悬疑"
+					},
+					{
+						"name" : "恐怖"
+					},
+					{
+						"name" : "科幻"
+					},
+					{
+						"name" : "治愈"
+					},
+					{
+						"name" : "文艺"
+					},
+					{
+						"name" : "成长"
+					},
+					{
+						"name" : "动画"
+					},
+					{
+						"name" : "华语"
+					},
+					{
+						"name" : "欧美"
+					},
+					{
+						"name" : "韩国"
+					},
+					{
+						"name" : "日本"
+					},
+					{
+						"name" : ""
+					}
+				]
+		}
+}
